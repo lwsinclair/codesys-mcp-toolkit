@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/johannespettersson80-codesys-mcp-toolkit-badge.png)](https://mseep.ai/app/johannespettersson80-codesys-mcp-toolkit)
+
 
 # @codesys/mcp-toolkit
 
